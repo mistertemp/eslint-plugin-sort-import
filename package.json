@@ -1,0 +1,23 @@
+{
+  "name": "eslint-plugin-mistertemp",
+  "version": "1.0.0",
+  "description": "eslint plugin with import sorting",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lzientek/eslint-plugin-mistertemp.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintplugin"
+  ],
+  "author": "lzientek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lzientek/eslint-plugin-mistertemp/issues"
+  },
+  "homepage": "https://github.com/lzientek/eslint-plugin-mistertemp#readme"
+}
