@@ -24,7 +24,7 @@
     "eslint-plugin"
   ],
   "devDependencies": {
-    "eslint": "~3.9.1",
+    "eslint": "^4.6.1",
     "babel-eslint": "^7.2.3"
   },
   "engines": {
