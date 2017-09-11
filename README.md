@@ -36,7 +36,11 @@ Then configure the rules you want to use under the rules section.
 ```json
 {
     "rules": {
-        "mistertemp/order-import": 2
+        "mistertemp/order-import":  ["error", {
+            "ignoreCase": true,
+            "ignoreMemberSort": false,
+            "memberSyntaxSortOrder": ["react", "single", "multiple", "all", "none" ]
+        }]
     }
 }
 ```
