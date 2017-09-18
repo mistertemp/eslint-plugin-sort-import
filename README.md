@@ -1,5 +1,7 @@
 # eslint-plugin-mistertemp
 
+[![Travis build status](http://img.shields.io/travis/lzientek/eslint-plugin-mistertemp/master.svg?style=flat-square)](https://travis-ci.org/lzientek/eslint-plugin-mistertemp)
+
 mistertemp eslint
 
 ## Installation
