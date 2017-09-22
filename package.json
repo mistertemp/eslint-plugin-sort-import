@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-mistertemp",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "eslint plugin with import sorting",
   "main": "lib/index.js",
   "scripts": {
