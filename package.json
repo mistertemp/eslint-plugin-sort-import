@@ -1,6 +1,6 @@
 {
-  "name": "eslint-plugin-mistertemp",
-  "version": "1.0.5",
+  "name": "eslint-plugin-sort-import",
+  "version": "1.0.6",
   "description": "eslint plugin with import sorting",
   "main": "lib/index.js",
   "scripts": {
@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lzientek/eslint-plugin-mistertemp.git"
+    "url": "git+https://github.com/lzientek/eslint-plugin-sort-import.git"
   },
   "author": "lzientek",
   "bugs": {
-    "url": "https://github.com/lzientek/eslint-plugin-mistertemp/issues"
+    "url": "https://github.com/lzientek/eslint-plugin-sort-import/issues"
   },
-  "homepage": "https://github.com/lzientek/eslint-plugin-mistertemp#readme",
+  "homepage": "https://github.com/lzientek/eslint-plugin-sort-import#readme",
   "peerDependencies": {
     "eslint": ">=0.8.0"
   },
