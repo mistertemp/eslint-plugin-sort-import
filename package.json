@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-sort-import",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "eslint plugin with import sorting",
   "main": "lib/index.js",
   "scripts": {
