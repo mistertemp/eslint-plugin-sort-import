@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lzientek/eslint-plugin-sort-import.git"
+    "url": "git+https://github.com/mistertemp/eslint-plugin-sort-import.git"
   },
   "author": "lzientek",
   "bugs": {
-    "url": "https://github.com/lzientek/eslint-plugin-sort-import/issues"
+    "url": "https://github.com/mistertemp/eslint-plugin-sort-import/issues"
   },
-  "homepage": "https://github.com/lzientek/eslint-plugin-sort-import#readme",
+  "homepage": "https://github.com/mistertemp/eslint-plugin-sort-import#readme",
   "peerDependencies": {
     "eslint": ">=0.8.0"
   },
