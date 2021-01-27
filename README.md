@@ -1,6 +1,5 @@
 # eslint-plugin-sort-import
 
-[![Travis build status](http://img.shields.io/travis/mistertemp/eslint-plugin-sort-import/master.svg?style=flat-square)](https://travis-ci.org/mistertemp/eslint-plugin-sort-import)
 [![NPM version](http://img.shields.io/npm/v/eslint-plugin-sort-import.svg?style=flat-square)](https://www.npmjs.org/package/eslint-plugin-sort-import)
 
 sort-import eslint
